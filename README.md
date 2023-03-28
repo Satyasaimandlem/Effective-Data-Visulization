@@ -17,8 +17,9 @@ they can both influence which chart is most appropriate.
 ![image](https://user-images.githubusercontent.com/129209796/228330470-9595005b-78a7-4e20-b881-f23c00985124.png)
 By emphasizing comparability over precise amounts, a bar chart enables the reader to compare each category more quickly labelling and correctly. 
 
-**Label for clarity, not as a rule: **
+**Label for clarity, not as a rule:** 
 Too many or too few labels can cause problems when your data visualization. Take a step back from the visualization and consider whether it is visually straightforward to understand based on how the labels are arranged. There may be too many labels. Consider the information you have presented most forcefully as if you are viewing it for the first time. When you read the label, which one stands out to you the most?  
+
 
  ![image](https://user-images.githubusercontent.com/129209796/228330560-24463b4e-4e78-4c92-88b9-e3fbf227abe4.png)
 The map is made less cluttered by removing the labels for each state, which also directs the reader's attention to the states with the highest and lowest sales. Since state forms are easily recognizable, labelling each one isn't a top concern because it can take attention away from the data.  
@@ -34,20 +35,17 @@ Information overload can be confusing. People won't know what to focus on if you
 
 Because the axis does not begin at 0, and the graph is stretched vertically to make the decline appear more dramatic, the first visualization creates the mistaken impression that shipping times have decreased significantly. Once adjusted, you can observe that the typical shipping times have barely changed over the previous four years.  
 
-**Keep your visualizations simple less is more: **
-
+**Keep your visualizations simple less is more:**
 You need to choose carefully what you portray at a time when there is so much information available. Remove any elements from your visualization that don't support the data's main point. Feel free to eliminate something if it doesn't provide context or pertain to the visualization's goal. 
 ![image](https://user-images.githubusercontent.com/129209796/228330870-3baeec78-2b78-4c8f-9694-2771a72fba78.png)
 The bar graph does not clearly communicate that the purpose is to compare sales over time for two different categories because the reader is inclined to switch back and forth between both axes and the data to read it. And it’s clearly communicated by the line graph on the right. 
 
-**Story Telling: **
-
+**Story Telling:**
 To grasp the data and to connect with the visualization's audience, visualization designers must go deeply into the data. Good designers are able to tell an engaging tale through the visualization in addition to selecting the appropriate graph and data range. 
 Particularly in the digital age, the term "storytelling" has come to refer to a more humane method of information delivery. Data storytelling uses the same fundamental ideas to enhance the dissemination of the results of data analysis. Transforming complex analysis outputs into persuasive, understandable narratives that influence corporate decisions, data storytelling is regarded as a new trending field and a desirable "data-driven" skill. The attention of C-level executives is being drawn by this fusion of art, science, and presentation skills. Data visualization positions are now in high demand, bridging the gap between operational and decision-making teams. 
 As we apply some helpful visualization parameters, let's look at some examples of both good and bad visualizations. 
 
-**Good Visualization Example: Global Warming **
-
+**Good Visualization Example: Global Warming**
 One of the biggest problems facing the planet is global warming. Understanding how and why something is happening will help us prevent the environment from getting even hotter. 
 The term "global climate change" describes the increase in earth's temperature that is due to human activity. It is caused by the greenhouse effect of several gases in our atmosphere, such as carbon dioxide (CO2) and methane (CH4), which stop the heat from escaping. Since the middle of the 20th century, human activity has caused a major increase in the concentration of these gases; the main contributors to this increase are the burning of fossil fuels (oil and gas) and deforestation. Drought occurrences are increasing and lasting longer, wildfires are occurring more frequently, and there are more extreme weather events. 
 We must review long-term records in order to clearly discern signs of climate change. Direct evidence of a long-term warming trend in global air temperatures is provided by measurements of the temperatures of the oceans and the atmosphere taken over many years. 
@@ -60,7 +58,7 @@ Date ranges, explanation legends, and technical terminology make this traditiona
 Worldwide average temperature data from 1850 to 2021 
 This report makes it all too clear that rapid and significant climate action is required in order to avoid catastrophic climate impacts during this century. We can still hold global temperature increase to 1.5 – 2ᵒC if we reduce GHG emissions rapidly and dramatically. 
 
-**Bad Visualization Example: Water on Earth **
+**Bad Visualization Example: Water on Earth**
 
 The water cycle, one of Earth's most potent systems, continuously circulates water, which is essential to life as we know it. Between the ocean, atmosphere, and land, water flows indefinitely. The amount of water in, on, and above our world is fixed, or finite, and neither grows nor shrinks over time. 
 Water is vital for life. For drinking and sanitation, for our food, cattle, and industry, as well as for the development and maintenance of the ecosystems that support all life, clean freshwater is a must. Less than 1% of the world's water is readily available freshwater, which can be found in rivers, lakes, wetlands, and aquifers. 
