@@ -24,7 +24,7 @@ Too many or too few labels can cause problems when your data visualization. Take
  ![image](https://user-images.githubusercontent.com/129209796/228330560-24463b4e-4e78-4c92-88b9-e3fbf227abe4.png)
 The map is made less cluttered by removing the labels for each state, which also directs the reader's attention to the states with the highest and lowest sales. Since state forms are easily recognizable, labelling each one isn't a top concern because it can take attention away from the data.  
 
-Use color to highlight important information or to differentiate or compare: 
+**Use color to highlight important information or to differentiate or compare:** 
 Data visualizations that use color can be more attractive and fascinating. But there have been instances of data visualizations when color is overdone, misinterpreted, or serves to further confuse rather than to further clarify. Always make sure that color makes the objective of your data visualization clear and draws attention 
 to it. 
 ![image](https://user-images.githubusercontent.com/129209796/228330691-545854c8-89a0-4940-9a69-0e948170e937.png)
