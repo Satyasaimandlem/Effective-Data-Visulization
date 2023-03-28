@@ -68,6 +68,7 @@ We must educate the public about the scarcity of fresh water and its significanc
 
 
 ![image](https://user-images.githubusercontent.com/129209796/228331152-887d3177-14d4-423d-8447-ef081b1abc4d.png)
+
 Water on Earth 
 
 This illustration was made to demonstrate the amount of fresh water that is available in relation to the overall amount of water that is present on Earth. But this picture doesn't show how much water there is overall or what kinds there are. Poor graphics were employed to illustrate it. It is challenging to understand the various forms of water and the significance of fresh water with this visualization. The purpose of the map is not made clear in the visualization, making it one of the bad visualizations. The graphic below clearly illustrates the various forms of water that are present on Earth as well as how little fresh water there is.
