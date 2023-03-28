@@ -65,10 +65,17 @@ Water is vital for life. For drinking and sanitation, for our food, cattle, and 
 It might seem like there is plenty of water to go around and that we will never run out of this precious resource because water makes up three-quarters of the earth's surface. However, the amount of usable fresh water is constrained. The oceans contain salt water, which makes up more than 97 percent of the water on Earth. Glaciers, ice caps, and snowcovered mountain ranges retain 2% of the world's fresh water. Only 1% of the water on Earth is still accessible to us for our daily water needs. Our fresh water resources are kept in lakes, rivers, and streams on the surface of the planet as well as in aquifers beneath the surface of the ground and bedrock fissures (surface water). 
 The need for water increases along with the growth of the human population worldwide. Freshwater ecosystems are under stress due to the disruption of natural water cycles brought on by human activities and climate change. The detrimental effects on our freshwater systems are further exacerbated by poor water management, pollution, the construction of infrastructure, and resource extraction. With this important resource, we cannot afford to be irresponsible. 
 We must educate the public about the scarcity of fresh water and its significance. The illustration below shows the various forms of water that exist on earth. 
+
+
 ![image](https://user-images.githubusercontent.com/129209796/228331152-887d3177-14d4-423d-8447-ef081b1abc4d.png)
 Water on Earth 
-This illustration was made to demonstrate the amount of fresh water that is available in relation to the overall amount of water that is present on Earth. But this picture doesn't show how much water there is overall or what kinds there are. Poor graphics were employed to illustrate it. It is challenging to understand the various forms of water and the significance of fresh water with this visualization. The purpose of the map is not made clear in the visualization, making it one of the bad visualizations. The graphic below clearly illustrates the various forms of water that are present on Earth as well as how little fresh water there is. 
+
+This illustration was made to demonstrate the amount of fresh water that is available in relation to the overall amount of water that is present on Earth. But this picture doesn't show how much water there is overall or what kinds there are. Poor graphics were employed to illustrate it. It is challenging to understand the various forms of water and the significance of fresh water with this visualization. The purpose of the map is not made clear in the visualization, making it one of the bad visualizations. The graphic below clearly illustrates the various forms of water that are present on Earth as well as how little fresh water there is.
+
  ![image](https://user-images.githubusercontent.com/129209796/228331251-72408301-c43f-49f7-b2ee-f09e2cb6b165.png)
+
+
+
 References        
 Schwabish, J. (2021). Better data visualizations: A guide for scholars, researchers, and wonks. Columbia University Press. https://doi.org/10.7312/schw19310 
 Self-paced digital training on AWS - AWS Skill Builder. (n.d.). Skillbuilder.Aws. Retrieved November 8, 2022, from https://explore.skillbuilder.aws/learn/course/44/play/65379/data-analyticsfundamentals-112-current-version 
