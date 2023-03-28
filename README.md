@@ -29,7 +29,7 @@ Data visualizations that use color can be more attractive and fascinating. But t
 to it. 
 ![image](https://user-images.githubusercontent.com/129209796/228330691-545854c8-89a0-4940-9a69-0e948170e937.png)
 In contrast to the ineffective example, which merely uses color as decoration, the example on the right provides the color more meaning and purpose.  
-Avoid misleading visualizations: 
+**Avoid misleading visualizations:** 
 Information overload can be confusing. People won't know what to focus on if you provide too much information at once, and they might pick the incorrect information. You must lead viewers through your data visualization and convey the information appropriately and concisely. They most certainly haven't done as much investigation into the data as you have, so you need to use your data visualization to influence them to draw precise, defensible conclusions. 
 ![image](https://user-images.githubusercontent.com/129209796/228330780-83d09996-c1fc-4294-9f12-15b82c3a96e8.png)
 
