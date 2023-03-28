@@ -18,7 +18,6 @@ they can both influence which chart is most appropriate.
 By emphasizing comparability over precise amounts, a bar chart enables the reader to compare each category more quickly labelling and correctly. 
 
 **Label for clarity, not as a rule: **
-
 Too many or too few labels can cause problems when your data visualization. Take a step back from the visualization and consider whether it is visually straightforward to understand based on how the labels are arranged. There may be too many labels. Consider the information you have presented most forcefully as if you are viewing it for the first time. When you read the label, which one stands out to you the most?  
 
  ![image](https://user-images.githubusercontent.com/129209796/228330560-24463b4e-4e78-4c92-88b9-e3fbf227abe4.png)
